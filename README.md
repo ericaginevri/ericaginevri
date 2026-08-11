@@ -45,5 +45,3 @@
 ###
 
 <h3 data-importer="text" align="left">💡 My Projects</h3>
-
-###
