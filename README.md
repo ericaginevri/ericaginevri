@@ -1,5 +1,6 @@
 <h1 align="left">Hi there, I'm Erica! 👋🏻</h1>
 <h3 align="left">AI & Data Engineering Student</h3>
+<img width="400" height="400" alt="Erica" src="https://github.com/user-attachments/assets/16e84256-4f32-4321-829a-3676eb93fe88" />
 
 ---
 
