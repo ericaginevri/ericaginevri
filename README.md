@@ -51,6 +51,7 @@
 <p align="left"> 
   <a href="https://www.comsol.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ericaginevri/ericaginevri/refs/heads/main/img/comsol.jpg" alt="comsol" width="40" height="40"/> </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ericaginevri/ericaginevri/refs/heads/main/img/canva.png" alt="canva" width="40" height="40"/> </a> 
+  <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> <img src="img/overleaf.jgg" alt="overleaf" width="40" height="40"/> </a>
 </p>
 
 ---
