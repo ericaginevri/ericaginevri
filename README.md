@@ -21,7 +21,7 @@
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="img/latex.png" alt="latex" width="40" height="40"/> </a> 
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="img/latex.svg" alt="latex" width="40" height="40"/> </a> 
 </p>
 
 ### 🗄️ Databases & Big Data
