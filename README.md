@@ -21,6 +21,7 @@
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="img/latex.png" alt="latex" width="40" height="40"/> </a> 
 </p>
 
 ### 🗄️ Databases & Big Data
@@ -35,6 +36,7 @@
 ### ⚙️ Tools, Frameworks & IDEs
 <p align="left"> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a> 
+  <a href="https://openjfx.io/" target="_blank" rel="noreferrer"> <img src="img/javafx.png" alt="javafx" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://orbstack.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ericaginevri/ericaginevri/refs/heads/main/img/orbstack.png" alt="orbstack" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
@@ -42,6 +44,7 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a> 
   <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" width="40" height="40"/> </a> 
+  <a href="https://gluonhq.com/products/scene-builder/" target="_blank" rel="noreferrer"> <img src="img/scenebuilder.png" alt="scenebuilder" width="40" height="40"/> </a> 
 </p>
 
 ### 🔬 Engineering & Design
