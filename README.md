@@ -7,7 +7,6 @@
 <p>
   <a href="https://www.linkedin.com/in/ericaginevri"><img src="https://img.shields.io/badge/LinkedIn-241645?style=for-the-badge&logo=linkedin&logoColor=C8B6FF" alt="LinkedIn" /></a>
   <a href="mailto:ericaginevri@gmail.com"><img src="https://img.shields.io/badge/Email-241645?style=for-the-badge&logo=gmail&logoColor=C8B6FF" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Open_to_work-Tuscany_%C2%B7_hybrid_%C2%B7_remote-FF4F87?style=for-the-badge&labelColor=241645" alt="Open to work: Tuscany, hybrid or remote" />
 </p>
 
 ## About me
@@ -54,5 +53,5 @@ Today my focus is AI and data, but I also care about the visual side of my proje
 </p>
 
 <a href="https://www.linkedin.com/in/ericaginevri">
-  <img src="assets/footer.svg" width="100%" alt="Let's build something with data. Open to roles in AI, data and software. Tuscany, hybrid or remote." />
+  <img src="assets/footer.svg" width="100%" alt="Let's build something new. Open to roles in AI, data, cloud and software." />
 </a>
