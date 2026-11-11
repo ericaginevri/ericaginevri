@@ -1,7 +1,4 @@
-<!--
-  Animated images live in /assets. The contribution snake is generated
-  by .github/workflows/snake.yml (run it once from the Actions tab).
--->
+<!-- Animated images live in /assets -->
 
 <a href="https://www.linkedin.com/in/ericaginevri">
   <img src="assets/hero.svg" width="100%" alt="Erica Ginevri. From biosignals to data pipelines. MSc Artificial Intelligence & Data Engineering at the University of Pisa." />
@@ -55,16 +52,6 @@ Today my focus is AI and data, but I also care about the visual side of my proje
   <a href="https://github.com/ericaginevri/HEMS"><img src="assets/project-hems.svg" width="49%" alt="HEMS. Hospital Emergency Management System. A client-server app for emergency departments: register patients, follow each emergency by priority from arrival to outcome, and search the history with filters. Built with Java, Spring Boot, JavaFX, MySQL." /></a>
   <a href="https://github.com/ericaginevri/GeoRisk"><img src="assets/project-georisk.svg" width="49%" alt="GeoRisk. A business case for an AI platform that scores landslide and flood risk for a single building from its address, so insurers and loss adjusters can price cover in seconds instead of reading hazard maps by hand. Built with AI product design, Business model, Geospatial data." /></a>
 </p>
-
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericaginevri/ericaginevri/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericaginevri/ericaginevri/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/ericaginevri/ericaginevri/output/snake.svg" width="100%" alt="Contribution graph being eaten by a snake" />
-</picture>
-
-<br /><br />
 
 <a href="https://www.linkedin.com/in/ericaginevri">
   <img src="assets/footer.svg" width="100%" alt="Let's build something with data. Open to roles in AI, data and software. Tuscany, hybrid or remote." />
