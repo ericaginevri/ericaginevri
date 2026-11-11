@@ -1,7 +1,7 @@
 <!-- Animated images live in /assets -->
 
 <a href="https://www.linkedin.com/in/ericaginevri">
-  <img src="assets/hero.svg" width="100%" alt="Erica Ginevri. From biosignals to data pipelines. MSc Artificial Intelligence & Data Engineering at the University of Pisa." />
+  <img src="assets/hero.svg" width="100%" alt="Erica Ginevri. From biosignals to data pipelines. MSc student in Artificial Intelligence & Data Engineering." />
 </a>
 
 ## About me
