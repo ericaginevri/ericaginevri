@@ -4,11 +4,6 @@
   <img src="assets/hero.svg" width="100%" alt="Erica Ginevri. From biosignals to data pipelines. MSc Artificial Intelligence & Data Engineering at the University of Pisa." />
 </a>
 
-<p>
-  <a href="https://www.linkedin.com/in/ericaginevri"><img src="https://img.shields.io/badge/LinkedIn-241645?style=for-the-badge&logo=linkedin&logoColor=C8B6FF" alt="LinkedIn" /></a>
-  <a href="mailto:ericaginevri@gmail.com"><img src="https://img.shields.io/badge/Email-241645?style=for-the-badge&logo=gmail&logoColor=C8B6FF" alt="Email" /></a>
-</p>
-
 ## About me
 
 I'm a Master's student in **Artificial Intelligence & Data Engineering** at the **University of Pisa**. I graduated in **Biomedical Engineering** in 2025 with a thesis on recognising human emotions from **EEG signals**, combining signal processing and machine learning.
