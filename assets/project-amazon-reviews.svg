@@ -28,5 +28,5 @@
 <text x="32" y="271" class="d">Hadoop MapReduce jobs aggregate reviews, rank products by</text>
 <text x="32" y="296" class="d">category and flag anomalies; the same pipeline runs in Spark</text>
 <text x="32" y="321" class="d">and is served through a REST API.</text>
-<text x="32" y="356" class="g" fill="#3D74C4">Java  ·  Hadoop  ·  Spark  ·  Python  ·  Docker</text>
+<text x="32" y="356" class="g" fill="#3D74C4">Java  |  Hadoop  |  Spark  |  Python  |  Docker</text>
 </svg>

@@ -27,5 +27,5 @@
 <text x="32" y="271" class="d">suggestions from your network. 4,500 products and 90,000</text>
 <text x="32" y="296" class="d">reviews scraped from Sephora and Cult Beauty, split between</text>
 <text x="32" y="321" class="d">MongoDB and a Neo4j social graph.</text>
-<text x="32" y="356" class="g" fill="#3B8F6E">Java  ·  Spring Boot  ·  MongoDB  ·  Neo4j  ·  Python  ·  Docker</text>
+<text x="32" y="356" class="g" fill="#3B8F6E">Java  |  Spring Boot  |  MongoDB  |  Neo4j  |  Python  |  Docker</text>
 </svg>
