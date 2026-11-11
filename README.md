@@ -38,6 +38,8 @@ Today my focus is AI and data, but I also care about the visual side of my proje
 
 ## Featured projects
 
+<a href="https://github.com/ericaginevri/StepWise"><img src="assets/project-stepwise.svg" width="100%" alt="StepWise. Best Idea Award. Work in progress. Step monitoring for people with Parkinson's disease: smart-shoe sensors, the daily calendar and location feed a weekly classifier, and AI agents turn the data into one report for the physiotherapist. Process Mining and Intelligence, team of 4. Wearable sensors, machine learning, AI agents, workflow design." /></a>
+
 <p>
   <a href="https://github.com/ericaginevri/Flaire"><img src="assets/project-flaire.svg" width="49%" alt="Flaire. A cosmetics catalog with a social layer: reviews, follows and suggestions from your network. 4,500 products and 90,000 reviews scraped from Sephora and Cult Beauty, split between MongoDB and a Neo4j social graph. Built with Java, Spring Boot, MongoDB, Neo4j, Python, Docker." /></a>
   <a href="https://github.com/ericaginevri/AmazonReviews"><img src="assets/project-amazon-reviews.svg" width="49%" alt="Amazon Reviews. A big-data pipeline over Amazon product reviews. Three Hadoop MapReduce jobs aggregate reviews, rank products by category and flag anomalies; the same pipeline runs in Spark and is served through a REST API. Built with Java, Hadoop, Spark, Python, Docker." /></a>
